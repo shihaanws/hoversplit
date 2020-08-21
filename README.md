@@ -1,2 +1,2 @@
 # hoversplit
-Pure CSS script Splitscreen hovering.
+Pure CSS script Splitscreen effect (hover transition).
